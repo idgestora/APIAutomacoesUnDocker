@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "36rKRtbvnCRbQTyKameadGOVfCJw43nFdpmMMLme4l4=",
+  "Source": "APIAutomacoesUnDocker",
+  "BasePath": "_content/APIAutomacoesUnDocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

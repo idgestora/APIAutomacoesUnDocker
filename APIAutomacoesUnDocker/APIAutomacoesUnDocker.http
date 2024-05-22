@@ -1,0 +1,6 @@
+@APIAutomacoesUnDocker_HostAddress = http://localhost:5013
+
+GET {{APIAutomacoesUnDocker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
